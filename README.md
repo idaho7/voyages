@@ -5,3 +5,5 @@
 - https://si.ambafrance.org/Coronavirus-Covid-19-informations-generales-et-conseils-aux-voyageurs
 
 - Italie (site interactif) : https://infocovid.viaggiaresicuri.it/
+
+- Zones vertes : https://mobile.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Attestation-de-deplacement-et-de-voyage#from1
