@@ -15,3 +15,8 @@
 - Liste des zones à risques : https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogebiete_neu.html
 
 - https://allemagneenfrance.diplo.de/fr-fr/-/2320790
+
+
+## Europe : 
+
+https://reopen.europa.eu/fr/map/ESP/7011
